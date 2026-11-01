@@ -4,7 +4,7 @@ export default defineConfig({
   lang: 'zh-CN',
   title: '神人忧天の文档',
   description: '用 Markdown 写，推一次 main 就上线',
-  base: '/',
+  base: '/github-vitepress/',
 
   themeConfig: {
     // 顶部导航
