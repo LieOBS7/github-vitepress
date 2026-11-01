@@ -28,13 +28,13 @@ export default defineConfig({
 
     // 每页底部“在 GitHub 上编辑此页”
     editLink: {
-      pattern: 'https://github.com/你的用户名/github-vitepress/edit/main/docs/:path',
+      pattern: 'https://github.com/LieOBS7/github-vitepress/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页'
     },
 
     // 右上角 GitHub 图标
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/用户名/github-vitepress' },
+      { icon: 'github', link: 'https://github.com/LieOBS7/github-vitepress' },
       { icon: 'bilibili', link: 'https://space.bilibili.com/3546744979720373' }
     ],
 
