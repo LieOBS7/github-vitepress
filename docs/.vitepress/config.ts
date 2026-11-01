@@ -10,7 +10,7 @@ export default defineConfig({
     // 顶部导航
     nav: [
       { text: '首页', link: '/' },
-      { text: '开始', link: '/start' }
+      { text: '开始', link: '/start' },
       { text: '关于', link: '/about' }
     ],
 
