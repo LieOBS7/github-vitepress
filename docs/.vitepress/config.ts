@@ -10,13 +10,14 @@ export default defineConfig({
     // 顶部导航
     nav: [
       { text: '首页', link: '/' },
+      { text: '开始', link: '/start' }
       { text: '关于', link: '/about' }
     ],
 
     // 侧边栏（没有就先留空，不报错）
     sidebar: {
       '/': [
-        { text: '介绍', link: '/' },
+        { text: '开始', link: '/start' },
         { text: '关于', link: '/about' }
       ]
     },
