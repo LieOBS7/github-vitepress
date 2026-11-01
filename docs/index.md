@@ -11,7 +11,7 @@ hero:
       link: /start/
     - theme: alt
       text: 在 GitHub 查看
-      link: https://github.com/你的用户名/github-vitepress
+      link: https://github.com/LieOBS7/github-vitepress
       target: _blank
 
 features:
