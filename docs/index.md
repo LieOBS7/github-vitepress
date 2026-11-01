@@ -5,6 +5,9 @@ hero:
   name: 神人忧天の文档
   text: 由 Vite 和 Vue 驱动的静态站点生成器
   tagline: 用 Markdown 写文档，几分钟搞定。
+  image:
+    src: /vitepress-logo-large.svg
+    alt: VitePress
   actions:
     - theme: brand
       text: 快速开始
@@ -25,4 +28,3 @@ features:
     title: 主题可配
     details: 导航、侧边栏、首页全都能改。
 ---
-
