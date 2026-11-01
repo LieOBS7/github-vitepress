@@ -7,7 +7,7 @@ hero:
   tagline: 用 Markdown 写文档，几分钟搞定。
   
   image:
-  src: /img/coder.svg
+  src: /img/coder.png
   alt: 程序员
   
   actions:
