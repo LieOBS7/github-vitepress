@@ -7,8 +7,6 @@
 ## 在线访问
 
 https://LieOBS7.github.io/github-vitepress/
-或
-https://my.srytdocs.nx.kg/
 
 ## 技术栈
 
