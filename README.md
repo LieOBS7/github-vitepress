@@ -8,7 +8,7 @@
 
 https://LieOBS7.github.io/github-vitepress/
 或
-https://srytdocs.nx.kg/
+https://my.srytdocs.nx.kg/
 
 ## 技术栈
 
