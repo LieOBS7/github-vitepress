@@ -1,0 +1,20 @@
+name: Environment Check
+
+on:
+  workflow_dispatch:  # 只在你手动点按钮时跑
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - run: sudo apt update
+      - run: echo "=== 系统信息 ==="
+      - run: uname -a
+      - run: echo "=== Node 版本 ==="
+      - run: node --version || echo "未安装 node"
+      - run: echo "=== npm 版本 ==="
+      - run: npm --version || echo "未安装 npm"
+      - run: echo "=== 磁盘空间 ==="
+      - run: df -h
+      - run: echo "=== 内存 ==="
+      - run: free -h
